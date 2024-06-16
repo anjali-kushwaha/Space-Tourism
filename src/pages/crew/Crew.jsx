@@ -1,7 +1,7 @@
 import React from "react";
 import "./Crew.scss";
 import Navbar from "../../components/navbar/Navbar";
-import CrewSection from "../../components/crewSections/CrewSection";
+import CrewSection from "../../components/crewSections/CrewSections";
 const Crew = () => {
   return (
     <div className="Crew-Container">
